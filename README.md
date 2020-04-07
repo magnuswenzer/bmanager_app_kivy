@@ -1,0 +1,1 @@
+# bmanager_app_kivy
